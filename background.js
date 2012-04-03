@@ -161,7 +161,7 @@ function SourceOfTits() {
           }, 
           settings.interval * 60 * 1000);
 
-        this.process();
+        // this.process();
         
         console.log("Process started at " + this.now());
       }
